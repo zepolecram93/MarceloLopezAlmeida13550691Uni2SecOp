@@ -85,3 +85,7 @@ html {
 .to-tutorial {
   text-align: center;
 }
+#side-nav{
+position: static;
+margin-top: 32%;
+}
